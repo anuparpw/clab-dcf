@@ -31,7 +31,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Leaf1:e1-31:clab-vt-DC1-Spine1:e1-1:
-    dataRef: clab-vt-DC1-Leaf1:e1-31:out
+    dataRef: dc1-leaf1:e1-31:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -40,7 +40,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Leaf1:e1-32:clab-vt-DC1-Spine1:e1-2:
-    dataRef: clab-vt-DC1-Leaf1:e1-32:out
+    dataRef: dc1-leaf1:e1-32:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -49,7 +49,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Leaf1:e1-33:clab-vt-DC1-Spine2:e1-1:
-    dataRef: clab-vt-DC1-Leaf1:e1-33:out
+    dataRef: dc1-leaf1:e1-33:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -58,7 +58,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Leaf1:e1-34:clab-vt-DC1-Spine2:e1-2:
-    dataRef: clab-vt-DC1-Leaf1:e1-34:out
+    dataRef: dc1-leaf1:e1-34:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -67,7 +67,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Leaf1:e1-1:clab-vt-Client1:eth1:
-    dataRef: clab-vt-DC1-Leaf1:e1-1:out
+    dataRef: dc1-leaf1:e1-1:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -76,7 +76,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Leaf1:e1-2:clab-vt-Client2:eth1:
-    dataRef: clab-vt-DC1-Leaf1:e1-2:out
+    dataRef: dc1-leaf1:e1-2:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -85,7 +85,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Leaf2:e1-31:clab-vt-DC1-Spine1:e1-3:
-    dataRef: clab-vt-DC1-Leaf2:e1-31:out
+    dataRef: dc1-leaf2:e1-31:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -94,7 +94,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Leaf2:e1-32:clab-vt-DC1-Spine1:e1-4:
-    dataRef: clab-vt-DC1-Leaf2:e1-32:out
+    dataRef: dc1-leaf2:e1-32:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -103,7 +103,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Leaf2:e1-33:clab-vt-DC1-Spine2:e1-3:
-    dataRef: clab-vt-DC1-Leaf2:e1-33:out
+    dataRef: dc1-leaf2:e1-33:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -112,7 +112,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Leaf2:e1-34:clab-vt-DC1-Spine2:e1-4:
-    dataRef: clab-vt-DC1-Leaf2:e1-34:out
+    dataRef: dc1-leaf2:e1-34:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -121,7 +121,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Leaf2:e1-1:clab-vt-Client1:eth2:
-    dataRef: clab-vt-DC1-Leaf2:e1-1:out
+    dataRef: dc1-leaf2:e1-1:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -130,7 +130,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Leaf2:e1-2:clab-vt-Client2:eth2:
-    dataRef: clab-vt-DC1-Leaf2:e1-2:out
+    dataRef: dc1-leaf2:e1-2:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -139,7 +139,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Leaf1:e1-33:clab-vt-DC2-Spine1:e1-1:
-    dataRef: clab-vt-DC2-Leaf1:e1-33:out
+    dataRef: dc2-leaf1:e1-33:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -148,7 +148,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Leaf1:e1-34:clab-vt-DC2-Spine2:e1-1:
-    dataRef: clab-vt-DC2-Leaf1:e1-34:out
+    dataRef: dc2-leaf1:e1-34:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -157,7 +157,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Leaf1:e1-1:clab-vt-Client3:eth1:
-    dataRef: clab-vt-DC2-Leaf1:e1-1:out
+    dataRef: dc2-leaf1:e1-1:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -166,7 +166,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Leaf1:e1-2:clab-vt-Client4:eth1:
-    dataRef: clab-vt-DC2-Leaf1:e1-2:out
+    dataRef: dc2-leaf1:e1-2:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -175,7 +175,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Leaf2:e1-33:clab-vt-DC2-Spine1:e1-2:
-    dataRef: clab-vt-DC2-Leaf2:e1-33:out
+    dataRef: dc2-leaf2:e1-33:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -184,7 +184,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Leaf2:e1-34:clab-vt-DC2-Spine2:e1-2:
-    dataRef: clab-vt-DC2-Leaf2:e1-34:out
+    dataRef: dc2-leaf2:e1-34:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -193,7 +193,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Leaf2:e1-1:clab-vt-Client3:eth2:
-    dataRef: clab-vt-DC2-Leaf2:e1-1:out
+    dataRef: dc2-leaf2:e1-1:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -202,7 +202,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Leaf2:e1-2:clab-vt-Client4:eth2:
-    dataRef: clab-vt-DC2-Leaf2:e1-2:out
+    dataRef: dc2-leaf2:e1-2:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -211,7 +211,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine1:e1-1:clab-vt-DC1-Leaf1:e1-31:
-    dataRef: clab-vt-DC1-Spine1:e1-1:out
+    dataRef: dc1-spine1:e1-1:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -220,7 +220,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine1:e1-2:clab-vt-DC1-Leaf1:e1-32:
-    dataRef: clab-vt-DC1-Spine1:e1-2:out
+    dataRef: dc1-spine1:e1-2:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -229,7 +229,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine1:e1-3:clab-vt-DC1-Leaf2:e1-31:
-    dataRef: clab-vt-DC1-Spine1:e1-3:out
+    dataRef: dc1-spine1:e1-3:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -238,7 +238,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine1:e1-4:clab-vt-DC1-Leaf2:e1-32:
-    dataRef: clab-vt-DC1-Spine1:e1-4:out
+    dataRef: dc1-spine1:e1-4:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -247,7 +247,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine1:e1-49:clab-vt-DC1-GW1:1/1/1:
-    dataRef: clab-vt-DC1-Spine1:e1-49:out
+    dataRef: dc1-spine1:e1-49:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -256,7 +256,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine1:e1-50:clab-vt-DC1-GW1:1/1/2:
-    dataRef: clab-vt-DC1-Spine1:e1-50:out
+    dataRef: dc1-spine1:e1-50:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -265,7 +265,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine1:e1-51:clab-vt-DC1-GW2:1/1/1:
-    dataRef: clab-vt-DC1-Spine1:e1-51:out
+    dataRef: dc1-spine1:e1-51:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -274,7 +274,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine1:e1-52:clab-vt-DC1-GW2:1/1/2:
-    dataRef: clab-vt-DC1-Spine1:e1-52:out
+    dataRef: dc1-spine1:e1-52:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -283,7 +283,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine2:e1-1:clab-vt-DC1-Leaf1:e1-33:
-    dataRef: clab-vt-DC1-Spine2:e1-1:out
+    dataRef: dc1-spine2:e1-1:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -292,7 +292,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine2:e1-2:clab-vt-DC1-Leaf1:e1-34:
-    dataRef: clab-vt-DC1-Spine2:e1-2:out
+    dataRef: dc1-spine2:e1-2:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -301,7 +301,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine2:e1-3:clab-vt-DC1-Leaf2:e1-33:
-    dataRef: clab-vt-DC1-Spine2:e1-3:out
+    dataRef: dc1-spine2:e1-3:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -310,7 +310,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine2:e1-4:clab-vt-DC1-Leaf2:e1-34:
-    dataRef: clab-vt-DC1-Spine2:e1-4:out
+    dataRef: dc1-spine2:e1-4:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -319,7 +319,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine2:e1-49:clab-vt-DC1-GW1:1/1/3:
-    dataRef: clab-vt-DC1-Spine2:e1-49:out
+    dataRef: dc1-spine2:e1-49:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -328,7 +328,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine2:e1-50:clab-vt-DC1-GW1:1/1/4:
-    dataRef: clab-vt-DC1-Spine2:e1-50:out
+    dataRef: dc1-spine2:e1-50:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -337,7 +337,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine2:e1-51:clab-vt-DC1-GW2:1/1/3:
-    dataRef: clab-vt-DC1-Spine2:e1-51:out
+    dataRef: dc1-spine2:e1-51:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -346,7 +346,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC1-Spine2:e1-52:clab-vt-DC1-GW2:1/1/4:
-    dataRef: clab-vt-DC1-Spine2:e1-52:out
+    dataRef: dc1-spine2:e1-52:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -355,7 +355,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Spine1:e1-1:clab-vt-DC2-Leaf1:e1-33:
-    dataRef: clab-vt-DC2-Spine1:e1-1:out
+    dataRef: dc2-spine1:e1-1:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -364,7 +364,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Spine1:e1-2:clab-vt-DC2-Leaf2:e1-33:
-    dataRef: clab-vt-DC2-Spine1:e1-2:out
+    dataRef: dc2-spine1:e1-2:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -373,7 +373,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Spine1:e1-49:clab-vt-DC2-GW1:1/1/1:
-    dataRef: clab-vt-DC2-Spine1:e1-49:out
+    dataRef: dc2-spine1:e1-49:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -382,7 +382,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Spine1:e1-50:clab-vt-DC2-GW2:1/1/1:
-    dataRef: clab-vt-DC2-Spine1:e1-50:out
+    dataRef: dc2-spine1:e1-50:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -391,7 +391,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Spine2:e1-1:clab-vt-DC2-Leaf1:e1-34:
-    dataRef: clab-vt-DC2-Spine2:e1-1:out
+    dataRef: dc2-spine2:e1-1:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -400,7 +400,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Spine2:e1-2:clab-vt-DC2-Leaf2:e1-34:
-    dataRef: clab-vt-DC2-Spine2:e1-2:out
+    dataRef: dc2-spine2:e1-2:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -409,7 +409,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Spine2:e1-49:clab-vt-DC2-GW1:1/1/2:
-    dataRef: clab-vt-DC2-Spine2:e1-49:out
+    dataRef: dc2-spine2:e1-49:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
@@ -418,7 +418,7 @@ cells:
     fillColor:
       thresholds: *thresholds-operstate
   link_id:clab-vt-DC2-Spine2:e1-50:clab-vt-DC2-GW2:1/1/2:
-    dataRef: clab-vt-DC2-Spine2:e1-50:out
+    dataRef: dc2-spine2:e1-50:out
     label: *label-config
     strokeColor:
       thresholds: *thresholds-traffic
